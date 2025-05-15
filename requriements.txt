@@ -1,4 +1,4 @@
-Библиотеки: bs4, lxml, Selenium, requests, time, pandas, csv, plotly, numpy, mathlotlib
+Библиотеки: bs4, lxml, Selenium, requests, time, pandas, csv, plotly, numpy, mathlotlib (все импорты прописаны в скрипте для парсинга parcing_script.py)
 Jupyter Notebook
 Доступ к веб-сервисам Webarchive, Shazam, Apple Music
 Хорошее подключение к сети Интернет
